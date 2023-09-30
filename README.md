@@ -8,5 +8,6 @@ Simple Python Auto-Typer for these Leveling bots
 4. ```python type.py```
 
 # Configuration Tomfoolery
+
 - Delay: ```time.sleep("")``` in line 8
-* Text: ```pyautogui.typewrite("")```
+* Text: ```pyautogui.typewrite("")``` in line 9
