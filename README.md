@@ -1,5 +1,6 @@
 # Discord Auto-Typer
 Simple Python Auto-Typer for these Leveling bots
+GUI Version: https://github.com/Schizo272/discord-autotyper-gui
 
 ## How2Use
 1. Clone the repo
